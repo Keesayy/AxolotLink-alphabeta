@@ -1,0 +1,111 @@
+AxolotLink — Proprietary Software Licence
+All Rights Reserved
+
+Copyright (c) 2026 Arthur Péraud, trading as Suiyoo Games ("the Author").
+
+
+1. NO LICENCE IS GRANTED
+
+This repository and every file in it — source code, compiled or obfuscated
+code, level data, puzzle designs, artwork, text, sounds and layout (together,
+"the Work") — are the exclusive property of the Author and are protected by
+copyright law and by international copyright treaties.
+
+No permission, licence or right of any kind is granted to you, whether express,
+implied, by estoppel or otherwise, except the single narrow permission stated
+in section 2.
+
+In particular, and without limitation, you MAY NOT:
+
+  a) copy, download, save, mirror, host, republish or redistribute the Work,
+     in whole or in part;
+  b) modify, adapt, translate, or create derivative or adapted works from the
+     Work, including reskins, ports, forks or clones;
+  c) use the Work, or any part of it, in any other product, game, website,
+     application, library, demo, showreel, tutorial or teaching material,
+     whether commercial or not;
+  d) sell, rent, licence, sublicence, lend or otherwise commercially exploit
+     the Work or any part of it;
+  e) decompile, deobfuscate, disassemble or reverse engineer the Work, or
+     attempt to reconstruct its source code, algorithms, level generator or
+     puzzle data;
+  f) extract, scrape, re-use or redistribute the puzzle levels, their
+     solutions, the difficulty data or the artwork;
+  g) use the Work, in whole or in part, as training data, fine-tuning data,
+     evaluation data or retrieval corpus for any machine-learning or
+     artificial-intelligence system, or permit any automated agent to do so;
+  h) remove, obscure or alter this licence, the copyright notices, or the
+     attribution shown in the game.
+
+
+2. THE ONLY PERMITTED USE
+
+You may load and play the game in a web browser, for your own personal and
+non-commercial entertainment, from a page published by the Author.
+
+Your browser will necessarily hold a temporary local copy of the page in order
+to display it. That technical copy is permitted for that sole purpose and for
+no other. Nothing in this permission allows you to keep, re-host, share or
+re-use that copy.
+
+That is the entire extent of the permission granted. Every other act listed in
+section 1 remains prohibited.
+
+
+3. PUBLIC REPOSITORY, NO OPEN SOURCE
+
+The Work is published in a public repository so that it can be played. It is
+NOT open source and NOT free software.
+
+Where the hosting platform's terms of service require that a public repository
+be viewable, and permit its "fork" feature, those platform mechanics do not
+grant, and cannot be read as granting, any licence to use, modify, run,
+publish or distribute the Work. Viewing is not a licence to copy. Forking
+through the platform's own interface is not a licence to use, keep or publish
+what has been forked.
+
+
+4. NAMES AND TRADE MARKS
+
+"AxolotLink", "Suiyoo Games", the axolotl mascot, the logo and the visual
+identity of the game are trade marks of the Author, whether registered or
+unregistered. They are NOT covered by any permission in this licence.
+
+You may not use these names or marks, nor any name or mark confusingly similar
+to them, to designate, promote, publish or distribute any product, game,
+service, repository, application, account, channel or page. Reference to the
+game by name in a review, news article, or other lawful editorial or academic
+context is permitted, provided it does not suggest endorsement by, or any
+association with, the Author.
+
+
+5. NO CONTRIBUTIONS
+
+No contributions are accepted. Pull requests, patches and modifications are
+not solicited and will not be merged. Bug reports and comments sent to the
+Author impose no obligation on the Author and grant the sender no rights in
+the Work.
+
+
+6. NO WARRANTY
+
+THE WORK IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE
+AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN
+ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
+WITH THE WORK OR THE USE OF OR OTHER DEALINGS IN THE WORK.
+
+
+7. TERMINATION
+
+Any act outside the permission in section 2 terminates that permission
+immediately and automatically, without notice, and without prejudice to any
+other remedy available to the Author.
+
+
+8. RESERVATION OF RIGHTS
+
+All rights not expressly granted above are reserved by the Author.
+
+Requests for any other use must be addressed to the Author in writing.

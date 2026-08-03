@@ -1,14 +1,14 @@
-# AxolotLink — beta
+# AxolotLink beta
 
 A cosy grid puzzle: stretch every axolotl to its nest and cover the whole board.
 
-**▶ Play: https://USER.github.io/REPO/**
+**▶ Play: https://Keesayy.github.io/AxolotLink-alphabeta/**
 
 Made by Suiyoo Games.
 
 ---
 
-## Licence — all rights reserved
+## Licence all rights reserved
 
 This is **not** open source. The code, the puzzles, the artwork and the name
 belong to the author, and no licence to use them is granted. You may play the
@@ -22,5 +22,5 @@ that its contents can be re-used.
 
 ## Contributions
 
-None accepted — see section 5 of the licence. Feedback on the game itself is
+None accepted see section 5 of the licence. Feedback on the game itself is
 welcome through the in-game feedback screen (💬).

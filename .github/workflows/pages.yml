@@ -1,0 +1,36 @@
+# Deploy the static beta to GitHub Pages.
+#
+# The legacy Jekyll builder wedged on 2026-08-06: four builds in a row failed at
+# 0 ms with a bare "Page build failed", so the site kept serving the 4 August
+# bundle while the repo already held the corrected one. This uploads the repo as
+# it is — no Jekyll, no processing — and leaves a readable log when it breaks.
+name: Deploy to Pages
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: .
+      - id: deployment
+        uses: actions/deploy-pages@v4

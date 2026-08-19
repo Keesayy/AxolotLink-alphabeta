@@ -2,7 +2,7 @@
 
 A cosy grid puzzle: stretch every axolotl to its nest and cover the whole board.
 
-**▶ Play: https://Keesayy.github.io/AxolotLink-alphabeta/**
+**▶ Play: https://keesayy.github.io/AxolotLink-alphabeta/**
 
 Made by Suiyoo Games.
 
